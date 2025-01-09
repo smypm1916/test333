@@ -36,6 +36,9 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+
+
+        dwer
     </dependencies>
 
     <build>
